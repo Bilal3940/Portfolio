@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bilal/static/css/main.fd9cf620.css",
+    "main.js": "/Bilal/static/js/main.1f3e62d9.js",
+    "index.html": "/Bilal/index.html",
+    "main.fd9cf620.css.map": "/Bilal/static/css/main.fd9cf620.css.map",
+    "main.1f3e62d9.js.map": "/Bilal/static/js/main.1f3e62d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9cf620.css",
+    "static/js/main.1f3e62d9.js"
+  ]
+}
