@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.page {
+  width: 90%;
+    // margin: 100px auto;
+    height: fit-content;
+    position: absolute;
+    // top: 110px;
+    margin-top: 150px;
+    left: 34px;
+
+}
+.top-tags {
+  top: 20px;
+  bottom: auto;
+}
+// .tags {
+//   color: rgb(245, 168, 15);
+//   opacity: 0.8;
+//   position: absolute;
+//   bottom: 90px;
+//   left: 40px;
+//   font-size: 16px;
+//   font-family: 'Ubuntu';
+// }
+.bottom-tag-html {
+  margin-left: 35px;
+}
+  
+@media only screen 
+  and (min-width: 360px) { 
+    // .tags {
+    //     color: rgb(245, 168, 15);
+    //     opacity: 0.8;
+    //     position: absolute;
+    //     bottom: 110px;
+    //     left: 10px;
+    //     font-size: 14px;
+    //     font-family:"Ubuntu";
+    // }    
+    .page {
+      width: 80%;
+      // padding-left: 30px;
+      //   height: 90%;
+        // margin: 100px auto;
+        position: absolute;
+        // top: 500px;
+        left: 25px;
+    
+    }  
+}
+@media only screen 
+  and (min-width: 390px)  { 
+    // .tags {
+    //   color: rgb(245, 168, 15);
+    // opacity: 0.8;
+    // position: absolute;
+    // bottom: 127px;
+    // left: 30px;
+    // font-size: 10px;
+    // font-family: "Ubuntu";
+    // }  
+    .page {
+      width: 80%;
+      // padding-left: 20px;
+      // padding-left: -20px;
+        // margin: 100px auto;
+        position: absolute;
+        top: 200px;
+        left: 25px;
+    
+    }  
+  }
+  @media only screen 
+  and (min-width: 384px)  { 
+    // .tags {
+    //   color: rgb(245, 168, 15);
+    // opacity: 0.8;
+    // position: absolute;
+    // bottom: 230px;
+    // left: 30px;
+    // font-size: 10px;
+    // font-family: "Ubuntu";
+    // }  
+    .page {
+      width: 80%;
+      // padding-left: 40px;
+        height: 90%;
+        margin: 100px auto;
+        position: absolute;
+        top: 90px;
+        left: 30px;
+    
+    }  
+}
+    @media only screen 
+  and (min-width: 412px)  { 
+    // .tags {
+    //   color: rgb(245, 168, 15);
+    // opacity: 0.8;
+    // position: absolute;
+    // bottom: 230px;
+    // left: 30px;
+    // font-size: 10px;
+    // font-family: "Ubuntu";
+    // }  
+    .page {
+      width: 80%;
+      // padding-left: 40px;
+        height: 90%;
+        margin: 100px auto;
+        position: absolute;
+        top: 26px;
+        left: 35px;
+    
+    }  
+}
+@media only screen 
+  and (min-width: 800px)  { 
+    .page {
+      width: 90%;
+      margin: 70px 0px auto;
+        // height: 90%;
+        // margin: 100px auto;
+        position: absolute;
+        top: 26px;
+        // left: 60px;
+    
+    }  
+    // .tags {
+    //     color: rgb(245, 168, 15);
+    //     opacity: 0.8;
+    //     position: absolute;
+    //     bottom: 60px;
+    //     left: 55px;
+    //     font-size: 20px;
+    //     font-family:"Ubuntu";
+    // }  
+  }
